@@ -5,5 +5,3 @@ Hii... I am Nay Yaung Lin Lakk and working as a web developer in **Evolve Techno
 Currently developing **MM Science** App for Myanmar Science Community and Education.
 
 I love to share open-source projects and making developer community for me.
-
-<img src="../mmscience.jpg" style="width: 100%">
