@@ -6,4 +6,4 @@ Currently developing **MM Science** App for Myanmar Science Community and Educat
 
 I love to share open-source projects and making developer community for me.
 
-<img src="mmscience.jpg" style="width: 100%">
+<img src="../mmscience.jpg" style="width: 100%">
