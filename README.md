@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
-##### Some of my open source projects( welphat.com isn't on production and API that I used on covid19mm aren't live)
+##### Some of my awesome open source projects(currently developing mmscience app for Myanmar Science Community & Education System.)
 
 [![mmscience](<https://img.shields.io/badge/-MM Science-444444?style=flat>)](mmscience.netlify.app/)
 [![dev-house](<https://img.shields.io/badge/-Dev house-444444?style=flat>)](https://dev-house.netlify.app/)
