@@ -36,6 +36,13 @@
 
 ##### Some of my awesome open source projects(currently developing mmscience app for Myanmar Science Community & Education System.)
 
+---
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyaung9&theme=radical&hide_langs_below=1&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayyaung9&show_icons=true&theme=radical&line_height=21">
+
+</p>
+
 [![mmscience](<https://img.shields.io/badge/-MM Science-444444?style=flat>)](mmscience.netlify.app/)
 [![dev-house](<https://img.shields.io/badge/-Dev house-444444?style=flat>)](https://dev-house.netlify.app/)
 
