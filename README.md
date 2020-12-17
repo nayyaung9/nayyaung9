@@ -2,7 +2,7 @@
 
 ##### Hi there 🧑‍💻, I'm Nay Yaung Lin Lakk:
 
--   :mortar_board: Current working at Evolve Technology
+-   :mortar_board: Current working at Home as a Freelancer
 -   :ringed_planet: Looking forward to contribute organization project
 -   :speech_balloon: Ask me about web development, ubuntu commands and full stack
 -   :mailbox: You can reach me with the links below
@@ -51,8 +51,6 @@
 
 [![Custom HTML Tag](<https://img.shields.io/badge/-Custom HTML Tag-444444?style=flat>)](https://github.com/nayyaung9/paper-input)
 
-
-![counter](https://enp6vzn8zaqpttd.m.pipedream.net)
 
 
 ```
