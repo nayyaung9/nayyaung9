@@ -1,15 +1,8 @@
-
-
-##### Hi there 🧑‍💻, I'm Nay Yaung Lin Lakk:
-
 <a href="https://www.usatoday.com/in-depth/graphics/2021/03/20/myanmar-military-coup-protests-violence-deaths-burma-videos/6868486002/">
 <p align="center">
   <img src="https://i.imgur.com/6uklVWM.png"/>
 </p>
 <br/>
-<p align="center">
-  Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
-</p>
 </a>
 <br />
 <p align="center" > 
@@ -35,13 +28,14 @@
 
 [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=nayyaung9&show_icons=true&theme=black)](https://github.com/nayyaung9/github-readme-stats)
 
-[![mmscience](<https://img.shields.io/badge/-MM Science-444444?style=flat>)](mmscience.netlify.app/)
-[![dev-house](<https://img.shields.io/badge/-Dev house-444444?style=flat>)](https://dev-house.netlify.app/)
+## My Journey
 
-[![react-livestream](<https://img.shields.io/badge/-React Streaming App-444444?style=flat>)](https://github.com/nayyaung9/react-livestream)
-[![movie-library](<https://img.shields.io/badge/-React Movie Library-444444?style=flat>)](https://movie-library-49712.firebaseapp.com/)
+I have developed Physics E website for Myanmar Education since I was 14.
+Here is my achievement 🎉
+[Website](https://m.facebook.com/story.php?story_fbid=1959776614061874&id=100000886621925)
 
-[![Custom HTML Tag](<https://img.shields.io/badge/-Custom HTML Tag-444444?style=flat>)](https://github.com/nayyaung9/paper-input)
+Now I am focusing on new technology to develop my skills and always thinking how do I help people with Technology
+
 
 
  
