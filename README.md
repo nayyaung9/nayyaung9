@@ -1,7 +1,7 @@
 <h1 align="center">Hi :metal:, I'm Nay Yaung Lin Lakk</h1>
 <h3 align="center">A passionate software developer who love to help people by Technology.</h3>
 
-- 🔭 I’m currently working as Mobile App Developer at **UAB Bank.**
+- 🔭 I’m currently working as Mobile App Developer at **uab Bank.**
 
 - 🌱 I’m currently learning **Computer Science & JavaScript.**
 
